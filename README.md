@@ -8,7 +8,10 @@
 </div>
 - 😄 Pronouns: She/her
 
-<img src="https://camo.githubusercontent.com/cf6fee248c6dbf2cacf1194c89b44680d1749095101f2d68dc726c1b2dd5134a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e686d696b616d69266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaTavs&amp;layout=compact" style="max-width: 100%;">
+
+
+![JulianaTavs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaTavs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
   
 
