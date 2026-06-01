@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
   </a> 
 </div>
+
 ![JulianaTavs's Top Languages](https://github-readme-stats-two-rho-97.vercel.app/api/top-langs/?username=JulianaTavs&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 
